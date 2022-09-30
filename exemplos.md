@@ -1,3 +1,5 @@
+https://www.alura.com.br/artigos/css-guia-do-flexbox?gclid=CjwKCAjw-L-ZBhB4EiwA76YzOZJpMiJAKRDeUpxJMFHu7dZcTOxnaDeJ887C7FIvWBwGWDMZ8eFKAhoC7bcQAvD_BwE
+
 ![image](https://user-images.githubusercontent.com/10155481/193273437-5665f333-2e5f-4226-9395-04e15e4f715e.png)
 
 ___
